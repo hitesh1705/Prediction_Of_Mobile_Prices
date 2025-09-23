@@ -1,5 +1,3 @@
-# src/train_models.py
-
 import pickle
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier

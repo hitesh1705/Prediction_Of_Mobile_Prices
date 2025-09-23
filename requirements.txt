@@ -3,4 +3,4 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-streamlit   # only if you add the demo app
+streamlit
