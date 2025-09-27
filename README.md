@@ -117,12 +117,3 @@ streamlit run app.py
 * **Python 3**
 * **Scikit-learn, Pandas, NumPy**
 * **Matplotlib, Seaborn**
-* (Optional) **Streamlit / Flask** for deployment
-
----
-
-This structure + README will make your repo look like a **case study portfolio project** instead of just a notebook.
-
----
-
-👉 Do you want me to also **convert your existing notebook into modular scripts** (`data_preprocessing.py`, `train_models.py`, `evaluate.py`) so your repo matches this structure?
